@@ -1,0 +1,12 @@
+package com.learning.rest.microservices.currencyconversionservice;
+
+public class CurrencyConversionBean {
+
+	private Long id;
+	private String from;
+	private String to;
+	private BigDecimal conversionMultiple;
+	private String conversionMultiple;
+	
+	
+}

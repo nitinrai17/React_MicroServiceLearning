@@ -1,0 +1,5 @@
+package com.learning.rest.microservices.limitsservice.bean;
+
+public class LimitConfiguration {
+
+}

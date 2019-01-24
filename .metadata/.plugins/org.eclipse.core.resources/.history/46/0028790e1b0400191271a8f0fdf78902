@@ -1,0 +1,5 @@
+package com.learning.rest.microservices.currencyconversionservice;
+
+public class CurrencyConversionBean {
+
+}

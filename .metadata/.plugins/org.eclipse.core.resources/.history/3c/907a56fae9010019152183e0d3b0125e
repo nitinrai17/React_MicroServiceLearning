@@ -1,0 +1,2 @@
+Spring.application.name=limits-service
+server.port=8080

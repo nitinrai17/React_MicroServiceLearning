@@ -1,0 +1,6 @@
+package com.learning.rest.microservices.limitsservice;
+
+@RestController
+public class LimitsConfigurationController {
+
+}
